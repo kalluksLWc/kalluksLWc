@@ -1,0 +1,10 @@
+<aura:component >
+    
+       <h1> Hello Sreeni </h1>
+       <ltng:require styles="/resource/bootstrap" />
+        
+       <div class="myBootStrap">
+             Hello minside the div class
+       </div>
+	
+</aura:component>

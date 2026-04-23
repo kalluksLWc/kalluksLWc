@@ -1,0 +1,5 @@
+<aura:component >
+    <c:helloWorldAura></c:helloWorldAura>
+    <c:helloWorldAura2></c:helloWorldAura2>
+	
+</aura:component>

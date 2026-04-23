@@ -1,0 +1,4 @@
+<aura:component>
+    <aura:attribute name="item" type="Camping_Item__c" required="true"> </aura:attribute>
+        <lightning:button label='Packed!' onClick='{!c.packItem}'></lightning:button>
+</aura:component>

@@ -1,0 +1,5 @@
+<aura:component >
+    
+    <h1> this is Second application</h1>
+	
+</aura:component>
